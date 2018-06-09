@@ -10,7 +10,7 @@ github_username: rliu054
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ruiliu.me" # the base hostname & protocol for your site
 
-google_analytics_id: UA-1111111111-1
+google_analytics_id: UA-3679586-3
 disqus_id:
 
 # Build settings
