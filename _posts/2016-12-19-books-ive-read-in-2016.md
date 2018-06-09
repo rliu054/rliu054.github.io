@@ -11,7 +11,7 @@ tags: []
 Fantastic book. I've been following Edmond's [blog](http://www.theeffectiveengineer.com/blog) and was often amazed by his unique insights. To achieve a successful career, you must relentlessly find leverage to make a bigger impact. Whether it be automate as much as you can, focus on high leverage activities, optimize for learning, minimize your burden.
 
 ## The Go Programming Language
-Good introduction book on Go. I've been watching Go for quite some time and built several side projects. It's great for server-side development, it's a compiled language with great speed, I particularly like `gofmt` tool and I use it to format my code on every save.
+Good introduction book on Go. I've been watching Go for quite some time and built several side projects. It's great for server-side development, it's a compiled language with great speed, I particularly like gofmt tool and I use it to format my code on every save.
 
 It's also an opinionated in many ways, the OO concept in Go is different than most popular OO languages. The native concurrency support and channels are what really make it shine.
 
