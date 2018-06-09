@@ -1,11 +1,11 @@
 # Site settings
-title: "Rui Liu"
+title:
 description: > 
   Random thoughts.
 
 author: Rui Liu
-email: johnny@appleseed.com
-twitter_username: rliu054
+email:
+twitter_username:
 github_username:
 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
