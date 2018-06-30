@@ -1,0 +1,55 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/6aa62c9/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+{{ site.title}}	_includes/header.html	/^  <h1><code>{{ site.title}}<\/code><\/h1>$/;"	h
+{{ site.description }}	_includes/header.html	/^  <h1>{{ site.description }}<\/h1>$/;"	h
+{{this_year}}	index.html	/^  <h2 class="c-archives__year" id="{{ this_year }}-ref">{{this_year}}<\/h2>$/;"	i
+{{post.title}} {{post.description}}	index.html	/^      <\/h3>$/;"	j
+{{next_year}}	index.html	/^<h2 class="c-archives__year" id="{{ next_year }}-ref">{{next_year}}<\/h2>$/;"	i
+tags: []	_posts/2018-06-11-machine-learning-resources.md	/^tags: []$/;"	s
+Andrew Ng's Coursera course	_posts/2018-06-11-machine-learning-resources.md	/^## Andrew Ng's Coursera course$/;"	s
+Octave vs. Python	_posts/2018-06-11-machine-learning-resources.md	/^##### Octave vs. Python$/;"	T
+Lack of theoretical depth	_posts/2018-06-11-machine-learning-resources.md	/^##### Lack of theoretical depth$/;"	T
+Caltech's ML course (or NTU's equivalent ML course)	_posts/2018-06-11-machine-learning-resources.md	/^## Caltech's ML course (or NTU's equivalent ML course)$/;"	s
+Machine Learning in Action	_posts/2018-06-11-machine-learning-resources.md	/^## Machine Learning in Action$/;"	s
+A byte of Python	_posts/2018-06-11-machine-learning-resources.md	/^## A byte of Python$/;"	s
+tags: []	_posts/2016-12-19-books-ive-read-in-2016.md	/^tags: []$/;"	s
+The effective engineer	_posts/2016-12-19-books-ive-read-in-2016.md	/^## The effective engineer$/;"	s
+The Go Programming Language	_posts/2016-12-19-books-ive-read-in-2016.md	/^## The Go Programming Language$/;"	s
+Web Scalability for Startup Engineers	_posts/2016-12-19-books-ive-read-in-2016.md	/^## Web Scalability for Startup Engineers$/;"	s
+Make It Stick: The Science of Successful Learning	_posts/2016-12-19-books-ive-read-in-2016.md	/^## Make It Stick: The Science of Successful Learning$/;"	s
+{{ page.title }}	_layouts/post.html	/^    <h1 class="c-article__title">{{ page.title }}<\/h1>$/;"	h
+{{ page.title }}	_layouts/content.html	/^    <h1 class="c-article__title">{{ page.title }}<\/h1>$/;"	h
+permalink: /projects/	_pages/projects.md	/^permalink: \/projects\/$/;"	s
+permalink: /about/	_pages/about.md	/^permalink: \/about\/$/;"	s
+Contact	_pages/about.md	/^## Contact$/;"	s
+Random thoughts	_site/index.html	/^  <h1><code>Random thoughts<\/code><\/h1>$/;"	h
+2018	_site/index.html	/^  <h2 class="c-archives__year" id="2018-ref">2018<\/h2>$/;"	i
+Machine Learning Resources	_site/index.html	/^      <\/h3>$/;"	j
+2016	_site/index.html	/^<h2 class="c-archives__year" id="2016-ref">2016<\/h2>$/;"	i
+Books I've read in 2016	_site/index.html	/^      <\/h3>$/;"	j
+Random thoughts	_site/projects/index.html	/^  <h1><code>Random thoughts<\/code><\/h1>$/;"	h
+Projects	_site/projects/index.html	/^    <h1 class="c-article__title">Projects<\/h1>$/;"	h
+Random thoughts	_site/404.html	/^  <h1><code>Random thoughts<\/code><\/h1>$/;"	h
+404: Page not found	_site/404.html	/^    <h1 class="c-article__title">404: Page not found<\/h1>$/;"	h
+Random thoughts	_site/about/index.html	/^  <h1><code>Random thoughts<\/code><\/h1>$/;"	h
+About	_site/about/index.html	/^    <h1 class="c-article__title">About<\/h1>$/;"	h
+Contact	_site/about/index.html	/^<h2 id="contact">Contact<\/h2>$/;"	i
+Random thoughts	_site/2018/06/machine-learning-resources.html	/^  <h1><code>Random thoughts<\/code><\/h1>$/;"	h
+Machine Learning Resources	_site/2018/06/machine-learning-resources.html	/^    <h1 class="c-article__title">Machine Learning Resources<\/h1>$/;"	h
+Andrew Ng’s Coursera course	_site/2018/06/machine-learning-resources.html	/^<h2 id="andrew-ngs-coursera-course">Andrew Ng’s Coursera course<\/h2>$/;"	i
+Caltech’s ML course (or NTU’s equivalent ML course)	_site/2018/06/machine-learning-resources.html	/^<h2 id="caltechs-ml-course-or-ntus-equivalent-ml-course">Caltech’s ML course (or NTU’s equiv/;"	i
+Machine Learning in Action	_site/2018/06/machine-learning-resources.html	/^<h2 id="machine-learning-in-action">Machine Learning in Action<\/h2>$/;"	i
+A byte of Python	_site/2018/06/machine-learning-resources.html	/^<h2 id="a-byte-of-python">A byte of Python<\/h2>$/;"	i
+Random thoughts	_site/2016/12/books-ive-read-in-2016.html	/^  <h1><code>Random thoughts<\/code><\/h1>$/;"	h
+Books I've read in 2016	_site/2016/12/books-ive-read-in-2016.html	/^    <h1 class="c-article__title">Books I've read in 2016<\/h1>$/;"	h
+The effective engineer	_site/2016/12/books-ive-read-in-2016.html	/^    <h2 id="the-effective-engineer">The effective engineer<\/h2>$/;"	i
+The Go Programming Language	_site/2016/12/books-ive-read-in-2016.html	/^<h2 id="the-go-programming-language">The Go Programming Language<\/h2>$/;"	i
+Web Scalability for Startup Engineers	_site/2016/12/books-ive-read-in-2016.html	/^<h2 id="web-scalability-for-startup-engineers">Web Scalability for Startup Engineers<\/h2>$/;"	i
+Make It Stick: The Science of Successful Learning	_site/2016/12/books-ive-read-in-2016.html	/^<h2 id="make-it-stick-the-science-of-successful-learning">Make It Stick: The Science of Successf/;"	i
+title: "404: Page not found"	404.md	/^title: "404: Page not found"$/;"	s
+My personal homepage	README.md	/^# My personal homepage$/;"	c
