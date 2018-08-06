@@ -8,7 +8,7 @@ tags: []
 
 I've been through tons of ML materials and below are the ones I found useful, along with some short reviews.
 
-## Andrew Ng's Coursera course
+### Andrew Ng's Coursera course
 Think of it as a super quick intro into Machine Learning. It touches almost every basic aspect of machine learning, also Andrew shared some of his personal experience using ML in industry.
 
 However, I think it falls short in a few areas:
@@ -23,14 +23,14 @@ This isn't really a con as it's intended to be a ML 101 course.
 Overall, I give this course a 4/5 review. For those of you who want more than a few basic concepts in ML I actually suggest you skip this course all together. Since you'll learn them more *concretely* (puns inteneded) later on.
 
 
-## Caltech's ML course (or NTU's equivalent ML course)
+### Caltech's ML course (or NTU's equivalent ML course)
 Amazing course with great theoretical depth, within 3 lectures you're shown the concept of Hoeffding inequalities and VC dimensions. Those are not covered in Ng's course at all.
 
 The math gets heavy over time and I struggled a bit to keep up, but I could learn the gist of things without much difficulty. Also I expect to come back to the lectures every now and then, just to build a better intuition of the concepts.
 
 Many also suggested the book "Learning from Data" I personally havne't read the book but it would be a great complimentary resources to the course.
 
-## Machine Learning in Action
+### Machine Learning in Action
 Good book on implementing common machine learning algorithms.
 
 However, I don't enjoy the Python code at all... nah. It doesn't follow *PEP8* convension, also I've seen a lot of duplicate/inefficient code. Basically I'm refactoring the Python code as I go though the code.
@@ -38,14 +38,33 @@ However, I don't enjoy the Python code at all... nah. It doesn't follow *PEP8* c
 On the good side the code is easy to read and you get the ideas even with subpar implementations.
 
 
-## Kaggle's Learning track
+### Kaggle's Learning track
 Really interesting hands-on exercises. I went through the Machine Learning and pandas tracks and find them really helpful.
 
 
-## fast.ai courses
+### fast.ai courses
+Good hands-on approach to learn.
 
-## Stanford's CS231n
 
-## A byte of Python
+### Stanford's CS231n
+Good theoretical depth.
+
+
+### Machine learning infrastructure
+As an engineer, very likely you'll be working on scaling the machine learning problems to solve large scale problems. So knowledge on infrastructure is essential, or would even say engineering is the bottle neck.
+
+- Learning Spark
+- Cassandra: The definitive guide
+
+
+### Machine learning libraries
+- NumPy
+- pandas
+- Scikit-learn
+- Tensorflow
+
+
+### A byte of Python
 Last time I used Python heavily was long time ago, so it feels a bit rusty. Having been a Ruby developer myself, I don't really need a thick book to pick up some old memories. So this good is a nice 1 hourish refresher.
+
 
