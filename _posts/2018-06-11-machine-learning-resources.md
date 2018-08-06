@@ -37,9 +37,15 @@ However, I don't enjoy the Python code at all... nah. It doesn't follow *PEP8* c
 
 On the good side the code is easy to read and you get the ideas even with subpar implementations.
 
+
+## Kaggle's Learning track
+Really interesting hands-on exercises. I went through the Machine Learning and pandas tracks and find them really helpful.
+
+
+## fast.ai courses
+
+## Stanford's CS231n
+
 ## A byte of Python
 Last time I used Python heavily was long time ago, so it feels a bit rusty. Having been a Ruby developer myself, I don't really need a thick book to pick up some old memories. So this good is a nice 1 hourish refresher.
 
-
----
-(to be continued)

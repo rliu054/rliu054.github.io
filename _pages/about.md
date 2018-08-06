@@ -3,7 +3,7 @@ layout: content
 title: About
 permalink: /about/
 ---
-I'm Rui, a software engineer based in Toronto.
+I'm Rui, a Machine Learning Engineer based in Toronto.
 
 ----
 
