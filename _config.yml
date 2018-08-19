@@ -1,5 +1,5 @@
 # Site settings
-title: Machine Learning Notes
+title: All about learning
 description: > 
 
 author: Rui Liu
@@ -8,7 +8,7 @@ twitter_username: rliu054
 github_username: rliu054
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ruiliu.me" # the base hostname & protocol for your site
+url: "http://ruiliu.me" # the base hostname & protocol for your site
 
 google_analytics_id: UA-3679586-3
 disqus_id:
