@@ -5,8 +5,6 @@ description: ""
 category: "productivity"
 tags: []
 ---
-# Workspace setup
-
 ## Software
 * Password manager: 1Password
 * Email client: Spark
