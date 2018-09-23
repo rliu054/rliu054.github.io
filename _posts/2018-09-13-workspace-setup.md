@@ -17,10 +17,11 @@ tags: []
 * AppCleaner
 * Wechat
 * Clipy (Clipboard management)
+* MacDown (Markdown editor)
 * Spectable (window manager)
 * Dash (documentations)
 * Evernote for Mac
-* Multimedia player: VLC multimedia player
+* Multimedia player: VLC
 * Downloader: Thunder for Mac
 * iTerm2
   * Download and install font from [here](https://github.com/Lokaltog/powerline-fonts/blob/master/Inconsolata/Inconsolata%20for%20Powerline.otf)
@@ -40,10 +41,10 @@ tags: []
 
 ## Hardware
 * Work space
-  * For me, a quiet working means 30% productivity boost.
-  * I just **HATE** open spaces. Thanks to the widespread adoption I had to get a Bose noise cancelling headphone. You should avoid any company who list *open space* as one of their perks under /careers.
+  * For me, a quiet working means more than 30% productivity boost.
+  * I just **HATE** open spaces. Thanks to the widespread adoption I had to get one of those noise cancelling headphone. You should avoid any company who list *open space* as one of their perks under /careers.
 * Machine
-  * 15 inch Macbook Pro
+  * 15 inch Macbook Pro (getting a bigger screen is the cheapest way to improve productivity).
 * Monitor
   * Two 27 inch screens (I had good experience with Samsung monitors).
 * Headphone
